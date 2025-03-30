@@ -36,6 +36,25 @@ Arkanoid is a classic brick-breaker game where players control a paddle at the b
    
    **Note:** If no levels are provided as arguments, the game will run with the default 3 levels.
 
+### Running Specific Levels
+You can choose which levels to play by providing level numbers as arguments:
+
+```bash
+# For Windows - Play only level 1
+java -cp .;biuoop-1.4.jar Ass6Game 1
+
+# For Windows - Play levels 1 and 3
+java -cp .;biuoop-1.4.jar Ass6Game 1 3
+
+# For Mac/Linux - Play level 2
+java -cp .:biuoop-1.4.jar Ass6Game 2
+```
+
+**Available Levels:**
+1. Direct Hit - Aim at a single brick
+2. Wide Easy - A wider level with more bricks
+3. Green 3 - Complex level with multiple layers of bricks
+
 ## Controls
 - **Left/Right Arrow Keys**: Move the paddle
 - **P**: Pause the game
@@ -69,6 +88,7 @@ When you complete all the levels, you'll see the end screen!
 - Colorful and engaging gameplay
 - Score tracking
 - Multiple lives
+- Customizable level selection via command line arguments
 
 ## Dependencies
 - biuoop-1.4.jar - BIU Object-Oriented Programming library
