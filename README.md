@@ -38,16 +38,20 @@ ESC: Exit the game
 Game Levels
 Level 1: Direct Hit
 The first level, "Direct Hit," is a straightforward level where the player must aim for a single brick. This is an easy introduction to the mechanics.
-Show Image
+![צילום מסך 2025-03-30 110104](https://github.com/user-attachments/assets/1d34d2f0-4a17-4c29-958d-38eea3fd5b91)
+
 Level 2: Wide Easy
 The second level, "Wide Easy," introduces more bricks and a wider paddle. This level is slightly more challenging but still accessible for beginners.
-Show Image
+![צילום מסך 2025-03-30 104551](https://github.com/user-attachments/assets/842ec1d6-931e-4b71-b9e8-44bad25e15a6)
+
 Level 3: Green 3
 The third level, "Green 3," is more complex, with multiple layers of bricks to destroy. The difficulty increases as players must strategize and keep the ball in play for longer periods.
-Show Image
-Victory Screen
-Complete all levels to see the victory screen!
-Show Image
+![צילום מסך 2025-03-30 110045](https://github.com/user-attachments/assets/1f22625e-ae65-4c90-9b63-553d62213e1f)
+
+End Screen
+in the end of the game we will see the end screen!
+![צילום מסך 2025-03-30 104615](https://github.com/user-attachments/assets/7a4568ba-3263-4792-bb87-cf4bf23933e4)
+
 Features
 
 Three unique levels with increasing difficulty
