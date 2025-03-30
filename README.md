@@ -3,24 +3,13 @@ Installation Instructions
 To get started with the Arkanoid game, follow the steps below:
 
 1. Clone the repository:
-bash
-Copy
-Edit
 git clone https://github.com/OzGutman485/Arknoid-Game
 cd Arknoid-Game/src
 2. Compile the game:
 Make sure you have Java installed on your system. Compile the game using the following command:
-
-bash
-Copy
-Edit
 javac -cp .;biuoop-1.4.jar Ass6Game.java
 3. Run the game:
 Once compiled, you can run the game using this command:
-
-bash
-Copy
-Edit
 java -cp .;biuoop-1.4.jar Ass6Game
 If no levels are provided as arguments, the game will run with the default 3 levels.
 
